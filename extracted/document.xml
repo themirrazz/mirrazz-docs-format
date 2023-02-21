@@ -4,6 +4,19 @@
   </metadata>
   <document>
     <paragraph>
+      Did you know the default font was Arial? That's right - not Times New Roman, Roboto, Ubuntu, or Courier.
+      Arial, also known as the "Mirrazz Docs Default Sans". Courier New is the "Default Monospace", and Times New Roman is the "Default Serif".
+      <br/>
+      <font face="times-new-roman">
+        However, you can always set the font to Times New Roman.<br/>
+      </font>
+      <font face="courier-new">
+        However, you can always set the font to Courier New.<br/>
+      </font>
+      There are so many fonts that you can select, and we'll demo them all: <br/><br/>
+      Arial, <font face="times-new-roman">Times New Roman,</font> <font face="courier-new">Courier New,</font> <font face="courier">Courier</font>, <font face="arial-black">Arial Black</font>, <font face="impact">Impact</font>, <font face="mirrazz-sans">Mirrazz Sans-Serif</font>, <font face="mirrazz-serif">Mirrazz Serif</font>, <font face="mirrazz-console">Mirrazz Console</font>, <font face="mirrazz-console-premium">Mirrazz Console Premium</font>, <font face="roboto">Roboto</font>, <font face="helvetica">Helvetica</font>, <font face="permanent-marker">Permanent Marker</font>, <font face="comic-sans">Comic Sans</font>, <font face="georgia">Georgia</font>, <font face="pacifico">Pacifico</font>, <font face="lobster">Lobster</font>, <font face="trebuchetms">Trebuchet MS</font>
+      <br/>
+      12pt, <size pt="14">14pt</size>, <size pt="18">18pt</size>, <size pt="22">22pt</size>, <size pt="36">36pt</size>, <size pt="48">48pt</size>, <size pt="64">64pt</size>, <size pt="72">72pt</size>
     </paragraph>
   </document>
 </xml>
